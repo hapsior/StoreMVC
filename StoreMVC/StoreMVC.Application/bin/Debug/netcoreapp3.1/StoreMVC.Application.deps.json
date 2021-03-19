@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StoreMVC.Application/1.0.0": {
+        "dependencies": {
+          "StoreMVC.Domain": "1.0.0"
+        },
+        "runtime": {
+          "StoreMVC.Application.dll": {}
+        }
+      },
+      "StoreMVC.Domain/1.0.0": {
+        "runtime": {
+          "StoreMVC.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreMVC.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreMVC.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

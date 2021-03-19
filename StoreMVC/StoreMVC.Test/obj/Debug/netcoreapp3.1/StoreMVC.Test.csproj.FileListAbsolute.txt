@@ -1,0 +1,9 @@
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\bin\Debug\netcoreapp3.1\StoreMVC.Test.deps.json
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\bin\Debug\netcoreapp3.1\StoreMVC.Test.dll
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\bin\Debug\netcoreapp3.1\StoreMVC.Test.pdb
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\obj\Debug\netcoreapp3.1\StoreMVC.Test.csprojAssemblyReference.cache
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\obj\Debug\netcoreapp3.1\StoreMVC.Test.AssemblyInfoInputs.cache
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\obj\Debug\netcoreapp3.1\StoreMVC.Test.AssemblyInfo.cs
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\obj\Debug\netcoreapp3.1\StoreMVC.Test.csproj.CoreCompileInputs.cache
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\obj\Debug\netcoreapp3.1\StoreMVC.Test.dll
+C:\Users\dhapkax\source\repos\StoreMVC\StoreMVC.Test\obj\Debug\netcoreapp3.1\StoreMVC.Test.pdb
